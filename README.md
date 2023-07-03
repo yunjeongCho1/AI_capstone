@@ -1,4 +1,4 @@
-# face_recognition
+# face_detection
 ai capstone
 ------------
 * hjhj 
